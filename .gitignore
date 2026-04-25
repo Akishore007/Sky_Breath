@@ -1,0 +1,62 @@
+# Other projects
+AI Project/
+NEW ODOO/
+PERSONAL EXPENCE TRACKER/
+ResQverse/
+SE project/
+VOIS CyS PROJECT/
+VOIS_Project_code/
+backup vr/
+hackathonx/
+odoo hackathon/
+odoo hackathon 2.o/
+
+# Build artifacts
+edb_*.exe
+edb_*.exe*
+
+# Text files
+*.txt
+!REQUIREMENTS.txt
+!README.txt
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node.js
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Django / local runtime files
+backend/db.sqlite3
+backend/staticfiles/
+
+# Environment and secrets
+.env
+*.env
+backend/.env
+
+# IDE
+.vscode/
+.idea/
